@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.bufer{
+  border: solid 1px rgba(40, 40, 40, 0.33);
+  width: 400px;
+  height: 350px;
+
+}
+.cart{
+  margin: 20px ;
+  display: flex;
+  gap: 20px;
+}
+.icon0{
+  
+}
